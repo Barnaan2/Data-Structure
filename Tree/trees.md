@@ -6,3 +6,6 @@ the typical and most used type of tree is binary search tree which is extremely 
 BST -Travesal
 1.Pre-Order(root,left,right);
 2.In-Order(left,root,right);
+
+There is alot to learn. 
+i need to learn more than this.
